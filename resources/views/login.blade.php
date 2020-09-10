@@ -1,85 +1,68 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-	<title>COVPEDIA</title>
-	<meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    
-	<link rel="stylesheet" type="text/css" href="vendor/bootstrap/css/bootstrap.min.css">
-<!--CSS============================================================================================-->
-	<link rel="stylesheet" type="text/css" href="css/font-awesome.min.css">
-	<link rel="stylesheet" href="css/util.css">
-	<link rel="stylesheet" href="css/login.css">
-</head>
-<body>
-	
-	<div class="limiter">
-		<div class="container-login100">
-			<div class="wrap-login100 p-t-50 p-b-90">
-				<form class="login100-form validate-form flex-sb flex-w">
-					<span class="login100-form-title p-b-51">
-						Login
-					</span>
+<html lang="en"><head>
+<title>COVPEDIA</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 
-					
-					<div class="wrap-input100 validate-input m-b-16" data-validate = "Username is required">
-						<input class="input100" type="text" name="username" placeholder="Username">
-						<span class="focus-input100"></span>
-					</div>
-					
-					
-					<div class="wrap-input100 validate-input m-b-16" data-validate = "Password is required">
-						<input class="input100" type="password" name="pass" placeholder="Password">
-						<span class="focus-input100"></span>
-					</div>
-					
-					<div class="flex-sb-m w-full p-t-3 p-b-24">
-						<div class="contact100-form-checkbox">
-							<input class="input-checkbox100" id="ckb1" type="checkbox" name="remember-me">
-							<label class="label-checkbox100" for="ckb1">
-								Remember me
-							</label>
-						</div>
+<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+<link rel="stylesheet" type="text/css" href="css/util.css">
+<link rel="stylesheet" type="text/css" href="css/style-login.css">
+<link rel="stylesheet" type="text/css" href="chrome-extension://jggobmlojchhlngdhmmdghgganciigof/css/translate_popup.css"></head>
+<body style="background-color: #666666;">
+<div class="limiter">
+<div class="container-login100">
+<div class="wrap-login100">
+<form class="login100-form validate-form">
+    <div style="background-color: white; padding: 100px 30px 100px 30px; box-shadow: 1px 1px 3px 3px #c4c4c4;">
+<span class="login100-form-title p-b-43">
+<b>
+    Login
+    </b>
+</span>
+<div class="wrap-input100 validate-input" data-validate="Valid email is required: ex@abc.xyz">
+<input class="input100" type="text" name="email">
 
-						<div>
-							<a href="#" class="txt1">
-								Forgot?
-							</a>
-						</div>
-					</div>
 
-					<div class="container-login100-form-btn m-t-17">
-						<button class="login100-form-btn">
-							<a href="https://quiet-salad-dzbl.ciroue.com/admin" style="color: white">
-								Login
-							</a>
-						</button>
-					</div>
+    <span class="focus-input100"></span>
+<span class="label-input100">Username</span>
+</div>
 
-				</form>
-			</div>
-		</div>
-	</div>
-	
+<br>
+<div class="wrap-input100 validate-input" data-validate="Password is required">
+<input class="input100" type="password" name="pass">
+<span class="focus-input100"></span>
+<span class="label-input100">Password</span>
+</div>
+<div class="flex-sb-m w-full p-t-3 p-b-32">
+<div class="contact100-form-checkbox">
+<input class="input-checkbox100" id="ckb1" type="checkbox" name="remember-me">
 
-	<div id="dropDownSelect1"></div>
-	
-<!--===============================================================================================-->
-	<script src="vendor/jquery/jquery-3.2.1.min.js"></script>
-<!--===============================================================================================-->
-	<script src="vendor/animsition/js/animsition.min.js"></script>
-<!--===============================================================================================-->
-	<script src="vendor/bootstrap/js/popper.js"></script>
-	<script src="vendor/bootstrap/js/bootstrap.min.js"></script>
-<!--===============================================================================================-->
-	<script src="vendor/select2/select2.min.js"></script>
-<!--===============================================================================================-->
-	<script src="vendor/daterangepicker/moment.min.js"></script>
-	<script src="vendor/daterangepicker/daterangepicker.js"></script>
-<!--===============================================================================================-->
-	<script src="vendor/countdowntime/countdowntime.js"></script>
-<!--===============================================================================================-->
-	<script src="js/main.js"></script>
+</div>
+
+</div>
+<div class="container-login100-form-btn">
+<button class="login100-form-btn">
+Login
+</button>
+</div>
+<div <="" form=""></div></div></form>
+<div class="login100-more" style="background-image: linear-gradient(#00B4AA, #189DF6);">
+    <div style="padding: 40% 5% 0 5%;">
+    <h3 style="color: white;">
+    <b>
+     COVPEDIA
+    </b>
+    </h3>
+    <p style="color: white;">inappropriate behavior ipsum dolor sit amet, consectetur. inappropriate behavior ipsum dolor. inappropriate behavior ipsum dolor.</p>
+        </div>
+</div>
+</div>
+</div>
+</div>
+
+<script src="js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script src="js/bootstrap.min.js" type="text/javascript"></script>
+<script src="js/main.js" type="text/javascript"></script>
+
 
 </body>
 </html>

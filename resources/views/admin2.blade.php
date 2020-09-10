@@ -53,13 +53,13 @@
               </a>
           </li>
           <li class="sub-menu dcjq-parent-li">
-          <a class="active" href="/admin-input">
+          <a class="javascript:;" href="/admin-input">
               <i class="fa fa-book"></i>
               <span>Input</span>
             </a>
           </li>
           <li class="sub-menu dcjq-parent-li">
-          <a class="javascript:;" href="/admin-update">
+          <a class="active" href="/admin-update">
               <i class="fa fa-book"></i>
               <span>Edit</span>
             </a>
@@ -83,7 +83,16 @@
 
 				<label class="label-input100" for="name">Nama Fasilitas Kesehatan *</label>
 				<div class="wrap-input100 validate-input">
-					<input id="email" class="input100 form-control" type="text" placeholder="Nama Fasilitas Kesehatan">
+                <div style="width: 100%;">
+                <div class="custom-select" style="width:100%">
+                    <select>
+                        <option value="0">Select:</option>
+                        <option value="1">...</option>
+                        <option value="2">...</option>
+                        <option value="3">...</option>
+                    </select>
+                    </div>
+                    </div>
 					<span class="focus-input100"></span>
         </div>
         
@@ -193,12 +202,18 @@
         </div>
 
 				<div class="container-contact100-form-btn">
-					<button class="contact100-form-btn">
+                <button class="contact100-form-btn" style="margin-right:5px;">
 						<span>
-							Submit
+							Save Edit
 							<i class="zmdi zmdi-arrow-right m-l-8"></i>
 						</span>
-					</button>
+                    </button>    
+                     <button class="contact100-form-btn" style="margin-left:5px;">
+						<span>
+							Delete
+							<i class="zmdi zmdi-arrow-right m-l-8"></i>
+						</span>
+                    </button>
 				</div>
 			</form>
 		</div>

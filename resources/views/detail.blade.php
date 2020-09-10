@@ -1,11 +1,17 @@
-<!DOCTYPE html>
 <html lang="zxx" class="no-js" style="display: block;"><head>
+		<!-- Mobile Specific Meta -->
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+		<!-- Favicon-->
 		<link rel="shortcut icon" href="img/fav.png">
+		<!-- Author Meta -->
 		<meta name="author" content="colorlib">
+		<!-- Meta Description -->
 		<meta name="description" content="">
+		<!-- Meta Keyword -->
 		<meta name="keywords" content="">
+		<!-- meta character set -->
 		<meta charset="UTF-8">
+		<!-- Site Title -->
 		<title>COVPEDIA</title>
 
 		<link href="https://fonts.googleapis.com/css?family=Poppins:100,200,400,300,500,600,700" rel="stylesheet"> 
@@ -26,7 +32,7 @@
 		  			<div class="container">
 				  		<div class="row align-items-center">
 				  			<div class="col-lg-6 col-sm-6 col-4 header-top-left no-padding">
-				        		<a href="/" style="color: black">COVPEDIA</a>			
+				        		<a href="https://quiet-salad-dzbl.ciroue.com/home" style="color: black">COVPEDIA</a>			
 				  			</div>
 				  			<div class="col-lg-6 col-sm-6 col-8 header-top-right no-padding">
 								<a class="btns" href="tel:+62 893 8881 1333">+62 893 8881 1333</a>
@@ -34,7 +40,7 @@
 				  				<a class="icons" href="tel:+953 012 3654 896">
 				  					<span class="lnr lnr-phone-handset"></span>
 				  				</a>
-				  				<a class="icons" href="lontarlab.com">
+				  				<a class="icons" href="mailto:support@colorlib.com">
 				  					<span class="lnr lnr-envelope"></span>
 				  				</a>		
 				  			</div>
@@ -51,9 +57,9 @@
 					<div class="row d-flex align-items-center justify-content-center">
 						<div class="about-content col-lg-12">
 							<h1 class="text-white">
-								Hospital Details Page				
+								Details Page				
 							</h1>	
-							<p class="text-white link-nav"><a href="index.html">Home </a> > <a href="blog-single.html"> Details Page</a></p>
+							<p class="text-white link-nav"><a href="index.html">Home </a> </a> <span class="lnr lnr-arrow-right"></span> <a href="blog-single.html">Details Page</a></p>
 						</div>	
 					</div>
 				</div>
@@ -73,15 +79,12 @@
 								</div>
 								<div class="col-lg-3  col-md-3 meta-details">
 									<ul class="tags">
-										<li><a href="#">COVID-19,</a></li>
-										<li><a href="#">Pandemic,</a></li>
-										<li><a href="#">Virus,</a></li>
-										<li><a href="#">Information</a></li>
+										<li><a href="#">Jenis Faskes</a></li>
 									</ul>
 									<div class="user-details row">
 										<p class="user-name col-lg-12 col-md-12 col-6"><a href="#">Telp</a> <span class="lnr lnr-user"></span></p>
 										<p class="date col-lg-12 col-md-12 col-6"><a href="#">Alamat</a> <span class="lnr lnr-calendar-full"></span></p>
-										<p class="view col-lg-12 col-md-12 col-6"><a href="#">Email</a><span class="lnr lnr-eye"></span></p>																			
+										<p class="view col-lg-12 col-md-12 col-6"><a href="#">Jenis Test</a><span class="lnr lnr-eye"></span></p>																			
 									</div>
 								</div>
 								<div class="col-lg-9 col-md-9">
@@ -117,9 +120,9 @@
 										Data berikut adalah data yang diambil langsung dan telah tercatat pada rumah sakit yang bersangkutan.
 									</p>
 								</div>
-								
+								<div style ="padding: 0 30px 0 30px">
 									<a href="#"><img class="img-fluid" src="https://www.phoneworld.com.pk/wp-content/uploads/2019/03/sfa-1.png" alt=""></a>
-								
+								</div>
 								<div class="single-sidebar-widget popular-post-widget">
 									<h5 class="popular-title">Search Location</h5>
 								</div>
@@ -138,12 +141,6 @@
 					<div class="row footer-bottom d-flex justify-content-between">
 						<p class="col-lg-8 col-sm-12 footer-text m-0">
 						Copyright ©<script>document.write(new Date().getFullYear());</script> All rights reserved | <a href="https://lontarlab.com" target="_blank">Lontarlab</a></p>
-						<div class="col-lg-4 col-sm-12 footer-social">
-							<a href="#"><i class="fa fa-facebook"></i></a>
-							<a href="#"><i class="fa fa-twitter"></i></a>
-							<a href="#"><i class="fa fa-dribbble"></i></a>
-							<a href="#"><i class="fa fa-behance"></i></a>
-						</div>
 					</div>
 				</div>
 			</footer>

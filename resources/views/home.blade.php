@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="zxx" class="no-js" style="display: block;"><head>
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 		<link rel="shortcut icon" href="img/fav.png">
@@ -26,7 +25,7 @@
 		  			<div class="container">
 				  		<div class="row align-items-center">
 				  			<div class="col-lg-6 col-sm-6 col-4 header-top-left no-padding">
-				        		<a href="/" style="color: black">COVPEDIA</a>				
+				        		<a href="https://quiet-salad-dzbl.ciroue.com/home" style="color: black">COVPEDIA</a>				
 				  			</div>
 				  			<div class="col-lg-6 col-sm-6 col-8 header-top-right no-padding">
 								<a class="btns" href="tel:+62 893 8881 1333">+62 893 8881 1333</a>
@@ -80,123 +79,77 @@
                          padding-top: 150px;">
 						<div class="menu-content pb-70 col-lg-8">
 							<div class="title text-center">
-								<h1 class="mb-10">Fasilitas Kesehatan Penyedia Pelayanan Pasien COVID-19</h1>
-								<p>Berikut beberapa daftar rumah sakit yang siap melayani penanganan Pasien COVID-19.</p>
+								<h1 class="mb-10">Direktori Tempat yang Menyediakan Test COVID-19</h1>
+								<p>Berikut beberapa daftar fasilitas kesehatan yang siap melayani penanganan Pasien COVID-19.</p>
 							</div>
 						</div>
-					</div>					
+					</div>
+					<p>Highlight</p>
+					<hr>					
 					<div class="row">
-						<div class="col-lg-3 col-md-6 single-blog">
+						<div class="col-lg-4 col-md-6 single-blog">
 							<div class="thumb">
-								<img class="img-fluid" src="https://cdn.ayobandung.com/images-bandung/post/articles/2019/08/27/61810/rshs.jpg" alt="">								
+								<img class="img-fluid" src="https://cdn.ayobandung.com/images-bandung/post/articles/2019/08/27/61810/rshs.jpg" style="border-radius: 10%">
+								<div class="overlay overlay-bg"></div>							
 							</div>
-							<p class="date">6 sep 2020</p>
-							<a href="/detail"><h4>Rumah Sakit Umum Pusat Dr. Hasan Sadikin Kota Bandung</h4></a>
+							<br>
+							<a href="https://quiet-salad-dzbl.ciroue.com/details"><h4>Rumah Sakit Umum Pusat Dr. Hasan Sadikin Kota Bandung</h4></a>
 							<p>
 								inappropriate behavior ipsum dolor sit amet, consectetur.
-							</p>
-							<div class="meta-bottom d-flex justify-content-between">
-								<p><span class=""></span>Next Page</p>
-								<p><span class=""></span>Next Page</p>
-							</div>									
+							</p>									
 						</div>
-						<div class="col-lg-3 col-md-6 single-blog">
+						<div class="col-lg-4 col-md-6 single-blog">
 							<div class="thumb">
-								<img class="img-fluid" src="https://rsparurotinsulu.org/po-content/po-upload/RSPR.JPG" alt="">								
+								<img class="img-fluid" src="https://rsparurotinsulu.org/po-content/po-upload/RSPR.JPG" style="border-radius: 10%">
+								<div class="overlay overlay-bg"></div>								
 							</div>
-							<p class="date">6 sep 2020</p>
-							<a href="/detail"><h4>Rumah Sakit Paru Dr. H.A Rotinsulu Kota Bandung</h4></a>
+							<br>
+							<a href="https://quiet-salad-dzbl.ciroue.com/details"><h4>Rumah Sakit Paru Dr. H.A Rotinsulu Kota Bandung</h4></a>
 							<p>
 								inappropriate behavior ipsum dolor sit amet, consectetur.
-							</p>
-							<div class="meta-bottom d-flex justify-content-between">
-								<p><span class=""></span>Next Page</p>
-								<p><span class=""></span>Next Page</p>
-							</div>									
+							</p>		
 						</div>
-						<div class="col-lg-3 col-md-6 single-blog">
+						<div class="col-lg-4 col-md-6 single-blog">
 							<div class="thumb">
-								<img class="img-fluid" src="https://rsbsabandung.com/images/banner.jpg" alt="">								
+								<img class="img-fluid" src="https://rsbsabandung.com/images/banner.jpg" style="border-radius: 10%">
+								<div class="overlay overlay-bg"></div>								
 							</div>
-							<p class="date">6 sep 2020</p>
-							<a href="/detail"><h4>Rumah Sakit Umum Bhayangkara Tk II Sartika Asih Kota Bandung</h4></a>
+							<br>
+							<a href="https://quiet-salad-dzbl.ciroue.com/details"><h4>Rumah Sakit Umum Bhayangkara Tk II Sartika Asih Kota Bandung</h4></a>
 							<p>
 								inappropriate behavior ipsum dolor sit amet, consectetur.
-							</p>
-							<div class="meta-bottom d-flex justify-content-between">
-								<p><span class=""></span>Next Page</p>
-								<p><span class=""></span>Next Page</p>
-							</div>									
+							</p>				
 						</div>
-						<div class="col-lg-3 col-md-6 single-blog">
-							<div class="thumb">
-								<img class="img-fluid" src="https://i0.wp.com/jadiberkah.com/wp-content/uploads/2019/04/RS-Dr-Salamun.jpg?fit=304%2C167&ssl=1" alt="">								
-							</div>
-							<p class="date">6 sep 2020</p>
-							<a href="/detail"><h4>Rumah Sakit Lanud dr. M. Salamun Kota Bandung</h4></a>
-							<p>
-								inappropriate behavior ipsum dolor sit amet, consectetur.
-							</p>
-							<div class="meta-bottom d-flex justify-content-between">
-								<p><span class=""></span>Next Page</p>
-								<p><span class=""></span>Next Page</p>
-							</div>									
-						</div>							
-                        <div class="col-lg-3 col-md-6 single-blog">
-							<div class="thumb">
-								<img class="img-fluid" src="https://res.cloudinary.com/dk0z4ums3/image/upload/w_360,h_240,c_fill,dpr_2.0,f_auto/v1594285953/hospital_image/19aac866720d_RS%20Immanuel%20Bandung%20Gedung.jpg.jpg" alt="">								
-							</div>
-							<p class="date">6 sep 2020</p>
-							<a href="/detail"><h4>Rumah Sakit Immanuel Kota Bandung</h4></a>
-							<p>
-								inappropriate behavior ipsum dolor sit amet, consectetur.
-							</p>
-							<div class="meta-bottom d-flex justify-content-between">
-								<p><span class=""></span>Next Page</p>
-								<p><span class=""></span>Next Page</p>
-							</div>									
+						<div class="form-group pull-right" style="width: 100%;padding: 10px">
+							<input type="text" class="search form-control" placeholder="Cari Fasilitas Kesehatan.." style="border: 1px solid #20639B;border-radius: .90rem;">
 						</div>
-                        <div class="col-lg-3 col-md-6 single-blog">
-							<div class="thumb">
-								<img class="img-fluid" src="https://cms.sehatq.com/cdn-cgi/image/f=auto/public/img/hospital_thumb/rs-santo-borromeus-HCFH00000543.jpg" alt="">								
+						<div class="card">
+							<div class="card-body">
+								<div class="media">
+								<img src="https://cdn.ayobandung.com/images-bandung/post/articles/2019/08/27/61810/rshs.jpg" class="align-self-center mr-3" style="width:20%; border-radius: 10%">
+								<div class="media-body limit-text">
+									<h5 class="mt-0">TITLE</h5>
+									<p>Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus. Donec sed odio dui. Nullam quis risus eget urna mollis ornare vel eu leo.</p>
+								</div>
+								<a href="#" class="btn btn-outline-dark btn-list" style="align-self: flex-end; margin-left: 10px;">More</a>
+								</div>
 							</div>
-							<p class="date">6 sep 2020</p>
-							<a href="/detail"><h4>Rumah Sakit Santo Borromeus Kota Bandung</h4></a>
-							<p>
-								inappropriate behavior ipsum dolor sit amet, consectetur.
-							</p>
-							<div class="meta-bottom d-flex justify-content-between">
-								<p><span class=""></span>Next Page</p>
-								<p><span class=""></span>Next Page</p>
-							</div>									
 						</div>
-                        <div class="col-lg-3 col-md-6 single-blog">
-							<div class="thumb">
-								<img class="img-fluid" src="https://s-yoolk-images.s3.amazonaws.com/id/catalog_item_images/large/1436697887/1184989?1436697887" alt="">								
+						<br>
+						<div class="card">
+							<div class="card-body">
+								<div class="media">
+								<img src="https://rsparurotinsulu.org/po-content/po-upload/RSPR.JPG" class="align-self-center mr-3" style="width:20%; border-radius: 10%">
+								<div class="media-body limit-text">
+									<h5 class="mt-0">TITLE</h5>
+									<p>Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus. Donec sed odio dui. Nullam quis risus eget urna mollis ornare vel eu leo.</p>
+								</div>
+								<a href="#" class="btn btn-outline-dark btn-list" style="align-self: flex-end; margin-left: 10px;">More</a>
+								</div>
 							</div>
-							<p class="date">6 sep 2020</p>
-							<a href="/detail"><h4>Rumah Sakit Santo Yusup Kota Bandung</h4></a>
-							<p>
-								inappropriate behavior ipsum dolor sit amet, consectetur.
-							</p>
-							<div class="meta-bottom d-flex justify-content-between">
-								<p><span class=""></span>Next Page</p>
-								<p><span class=""></span>Next Page</p>
-							</div>									
 						</div>
-                        <div class="col-lg-3 col-md-6 single-blog">
-							<div class="thumb">
-								<img class="img-fluid" src="https://info.pikiran-rakyat.com/sites/default/files/pub/styles/medium/public/image/2012/03/5.jpg?itok=H_sPfc4X" alt="">								
-							</div>
-							<p class="date">6 sep 2020</p>
-							<a href="/detail"><h4>Rumah Sakit Advent Kota Bandung</h4></a>
-							<p>
-								inappropriate behavior ipsum dolor sit amet, consectetur.
-							</p>
-							<div class="meta-bottom d-flex justify-content-between">
-								<p><span class=""></span>Next Page</p>
-								<p><span class=""></span>Next Page</p>
-							</div>									
+						<div style="width: 100%; text-align: center;">
+						<button type="button" class="btn btn-outline-dark" style="margin: 10px">View More</button>
 						</div>
 					</div>
 				</div>	
@@ -210,8 +163,7 @@
 
 					<div class="row footer-bottom d-flex justify-content-between">
 						<p class="col-lg-8 col-sm-12 footer-text m-0">
-                        Copyright ©<script>document.write(new Date().getFullYear());</script> All rights reserved | 
-                        <a href="https://lontarlab.com" target="_blank">Lontarlab</a></p>
+Copyright ©<script>document.write(new Date().getFullYear());</script> All rights reserved | <a href="https://lontarlab.com" target="_blank">Lontarlab</a></p>
 					</div>
 				</div>
 			</footer>

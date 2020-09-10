@@ -25,8 +25,12 @@ Route::get('/detail', function () {
     return view('detail');
 });
 
-Route::get('/admin', function () {
+Route::get('/admin-input', function () {
     return view('admin');
+});
+
+Route::get('/admin-update', function () {
+    return view('admin2');
 });
 
 Route::get('/login', function () {
