@@ -89,7 +89,7 @@
 					<div class="row">
 						<div class="col-lg-4 col-md-6 single-blog">
 							<div class="thumb">
-								<img class="img-fluid" src="https://cdn.ayobandung.com/images-bandung/post/articles/2019/08/27/61810/rshs.jpg" style="border-radius: 10%">
+								<img class="img-fluid" src="https://cdn.ayobandung.com/images-bandung/post/articles/2019/08/27/61810/rshs.jpg" style=" ">
 								<div class="overlay overlay-bg"></div>							
 							</div>
 							<br>
@@ -100,7 +100,7 @@
 						</div>
 						<div class="col-lg-4 col-md-6 single-blog">
 							<div class="thumb">
-								<img class="img-fluid" src="https://rsparurotinsulu.org/po-content/po-upload/RSPR.JPG" style="border-radius: 10%">
+								<img class="img-fluid" src="https://rsparurotinsulu.org/po-content/po-upload/RSPR.JPG" style=" ">
 								<div class="overlay overlay-bg"></div>								
 							</div>
 							<br>
@@ -111,7 +111,7 @@
 						</div>
 						<div class="col-lg-4 col-md-6 single-blog">
 							<div class="thumb">
-								<img class="img-fluid" src="https://rsbsabandung.com/images/banner.jpg" style="border-radius: 10%">
+								<img class="img-fluid" src="https://rsbsabandung.com/images/banner.jpg" style=" ">
 								<div class="overlay overlay-bg"></div>								
 							</div>
 							<br>
@@ -126,7 +126,7 @@
 						<div class="card">
 							<div class="card-body">
 								<div class="media">
-								<img src="https://cdn.ayobandung.com/images-bandung/post/articles/2019/08/27/61810/rshs.jpg" class="align-self-center mr-3" style="width:20%; border-radius: 10%">
+								<img src="https://cdn.ayobandung.com/images-bandung/post/articles/2019/08/27/61810/rshs.jpg" class="align-self-center mr-3" style="width:20%;">
 								<div class="media-body limit-text">
 									<h5 class="mt-0">TITLE</h5>
 									<p>Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus. Donec sed odio dui. Nullam quis risus eget urna mollis ornare vel eu leo.</p>
@@ -139,7 +139,7 @@
 						<div class="card">
 							<div class="card-body">
 								<div class="media">
-								<img src="https://rsparurotinsulu.org/po-content/po-upload/RSPR.JPG" class="align-self-center mr-3" style="width:20%; border-radius: 10%">
+								<img src="https://rsparurotinsulu.org/po-content/po-upload/RSPR.JPG" class="align-self-center mr-3" style="width:20%;">
 								<div class="media-body limit-text">
 									<h5 class="mt-0">TITLE</h5>
 									<p>Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus. Donec sed odio dui. Nullam quis risus eget urna mollis ornare vel eu leo.</p>
